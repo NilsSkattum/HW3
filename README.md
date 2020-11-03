@@ -29,4 +29,4 @@ valid_comments= 895
 
 ## **My Score:**
 
-I believe I should get a 21/20 as I completed the initial 16/20 tasks, received +500 valid comments and completed the extra credit textblob upvoting and downvoting. I did not complete 
+I believe I should get a 21/20 as I completed the initial 16/20 tasks, received +500 valid comments and completed the extra credit textblob upvoting and downvoting. I did not complete the other extra credit assignments. 
